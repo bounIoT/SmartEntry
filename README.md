@@ -6,6 +6,14 @@
 * [Ali Kaan Gündüz](https://github.com/alikaang)
 * Tuğçe Delipınar
 
+
+## Development Environment
+* Operating System: [Raspbian](https://www.raspbian.org)
+* Cloud: [IBM Bluemix](https://www.ibm.com/cloud/), [MLab](https://mlab.com)
+* Database: [MongoDB v3.4.14](https://www.mongodb.com)
+* Languages: JavaScript, HTML
+* Development Environment: [Node-RED v0.18.5](https://nodered.org)
+
 ## Further References
 
 * [Create a connection in MongoDB](https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/)
