@@ -1,0 +1,24 @@
+<html>
+    <head>
+<META HTTP-EQUIV="refresh" CONTENT="5">
+<title >RFID Status</title >
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.
+com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap /3.3.7/js/bootstrap.min.js"></script>
+<table class="table table -striped"> 
+<tr>
+<th>Tag</th>
+<th>Plate</th>
+<th>Usage</th>
+<th>Role</th>
+{{# payload }}
+<tr class=""> 
+<td>{{tag}}</td>
+<td>{{plate}}</td> 
+<td>{{usage}}</td> 
+<td>{{role}}</td> 
+{{/ payload }}
+</table>
+</html>
