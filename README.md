@@ -20,7 +20,7 @@ Left to Right:
 
 ## Schematic:
 
-* [Schematic](https://github.com/bounIoT/SmartEntry/blob/master/Figures/Raspberry_Schematic.pdf)
+* [Schematic in PDF Format](https://github.com/bounIoT/SmartEntry/blob/master/Figures/Raspberry_Schematic.pdf)
 
 ![](https://github.com/bounIoT/SmartEntry/blob/master/Figures/raspberry_schematic.PNG)
 
