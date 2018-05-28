@@ -7,7 +7,7 @@
 * Tuğçe Delipınar
 
 
-## Development Environment
+## Tools
 * Operating System: [Raspbian](https://www.raspbian.org)
 * Cloud: [IBM Bluemix](https://www.ibm.com/cloud/), [MLab](https://mlab.com)
 * Database: [MongoDB v3.4.14](https://www.mongodb.com)
