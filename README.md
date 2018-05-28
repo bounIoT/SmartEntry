@@ -13,14 +13,14 @@ Left to Right:
 * Tuğçe Delipınar 
 
 ## Hardware setup
-*RC522
-*Raspberry Bi Model B
-*Toggle Switch
-*5mm LED and resistors
+* RC522
+* Raspberry Bi Model B
+* Toggle Switch
+* 5mm LED and resistors
 
 ## Schematic:
 
-* [Schematic](https://docs.google.com/viewer?url=https://github.com/bounIoT/SmartEntry/blob/master/Figures/Raspberry_Schematic.pdf)
+* [Schematic](https://github.com/bounIoT/SmartEntry/blob/master/Figures/Raspberry_Schematic.pdf)
 
 ![](https://github.com/bounIoT/SmartEntry/blob/master/Figures/raspberry_schematic.PNG)
 
