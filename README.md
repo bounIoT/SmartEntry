@@ -14,7 +14,7 @@ Left to Right:
 
 ## Hardware setup
 * RC522
-* Raspberry Bi Model B
+* Raspberry Pi Model B
 * Toggle Switch
 * 5mm LED and resistors
 
